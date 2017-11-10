@@ -9,9 +9,6 @@ examples/**/*/yarn.lock
 .nuxt
 .cache
 
-# Dist folder
-dist
-
 # dist example generation
 examples/**/dist
 
